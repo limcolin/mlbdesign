@@ -1,0 +1,706 @@
+@media only screen and (max-width: 690px) {
+body.single-portfolio .container-wrap {
+	margin-top: 8px!important;
+}
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 1px) {
+/*
+header#top .span_9 > .slide-out-widget-area-toggle {
+	top: 14px;
+}
+*/
+#slide-out-widget-area.fullscreen.overflow-state {
+	padding-top: 65px;
+}
+
+.slide-out-widget-area-toggle a > span {
+	display: inline;
+}
+
+.col .slide-out-widget-area-toggle {
+	padding-top: 0!important;
+}
+
+body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .container .content h2 {
+	line-height: 38px!important;
+}
+
+body.single-portfolio .project-title .container {
+	max-width: 100%!important;
+}
+
+.single-portfolio #full_width_portfolio .row .col.section-title h1 {
+	max-width: 100%!important;
+	width: 100%!important;
+}
+
+body.home #footer-outer #footer-widgets .container {
+	max-width: 90%!important;
+}
+
+.portfolio-items .col .work-item .work-info a.view-button {
+	position: static;
+	width: 200px;
+	text-indent: 0;
+	opacity: 1!important;
+}
+
+.work-item:not([data-custom-content="on"]) .work-info-bg {
+	display: block!important;
+}
+	
+.nectar-slider-wrap[data-fullscreen="true"] .swiper-wrapper .slider-down-arrow i.icon-salient-down-arrow {
+	font-size:60px!important;
+}
+}
+
+@media only screen and (min-width: 1301px) and (max-width: 1400px) {
+h1,
+.footer-lets-talk {
+	font-size: 220px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 26px!important;
+	line-height: 36px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 84px!important;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 80px;
+	margin-top: 35px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 34px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 29px;
+	line-height: 37px;
+}
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1300px) {
+
+h1,
+.footer-lets-talk {
+	font-size: 200px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 26px!important;
+	line-height: 36px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 84px!important;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 76px;
+	margin-top: 35px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 32px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 26px;
+	line-height: 34px;
+}
+}
+
+@media only screen and (min-width: 1101px) and (max-width: 1200px) {
+
+h1,
+.footer-lets-talk {
+	font-size: 180px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 26px!important;
+	line-height: 36px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 84px!important;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 70px;
+	margin-top: 35px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 30px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 23px;
+	line-height: 31px;
+}
+}
+
+@media only screen and (min-width: 901px) and (max-width: 1100px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 12px!important;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	font-size: 19px!important;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 140px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 22px!important;
+	line-height: 32px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 68px!important;
+}
+
+h1.lets-talk {
+	margin-top: 0px;
+}
+
+#footer-outer .container .row {
+	padding-top: 45px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 66px;
+	margin-top: 8px;
+	margin-bottom: 35px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 28px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 20px;
+	line-height: 26px;
+}
+}
+
+@media only screen and (min-width: 781px) and (max-width: 900px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 12px!important;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	    font-size: 17px!important;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 140px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 22px!important;
+	line-height: 32px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 58px!important;
+}
+
+h1.lets-talk {
+	margin-top: 0px;
+}
+
+#footer-outer .container .row {
+	padding-top: 55px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 56px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 26px;
+	margin-top: -26px;
+}
+#footer-widgets .container h4.address {
+	margin-top: -4px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 20px;
+	line-height: 26px;
+}
+}
+
+@media only screen and (min-width: 661px) and (max-width: 780px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 24px!important;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	    font-size: 16px!important;
+}
+
+i.icon-default-style[class^="icon-"]#clients-arrow {
+	margin-top: 0!important;
+	margin-bottom: 12px!important;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 100px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 19px!important;
+	line-height: 32px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 52px!important;
+}
+
+h1.lets-talk {
+	margin-top: 0px;
+}
+
+#footer-outer .container .row {
+	padding-top: 55px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 48px;
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 24px;
+	margin-top: -30px;
+	margin-bottom: 0;
+}
+
+#footer-widgets .container h4.address {
+	font-size: 16px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 17px;
+	line-height: 20px;
+}
+
+.wpb_content_element p {
+	padding-bottom: 14px!important;
+}
+}
+
+@media only screen and (min-width: 561px) and (max-width: 660px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 24px!important;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	    font-size: 16px!important;
+}
+
+i.icon-default-style[class^="icon-"]#clients-arrow {
+	margin-top: 24px!important;
+	margin-bottom: 12px!important;
+}
+
+.portfolio-items .col .work-item .work-info .vert-center h3 {
+	font-size: 45px!important;
+	line-height: 40px;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 80px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 52px!important;
+}
+
+h1.lets-talk {
+	margin-top: 0px;
+}
+
+#footer-outer .container .row {
+	padding-top: 55px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 42px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 24px;
+	margin-top: -24px;
+	margin-bottom: 0;
+}
+
+#footer-widgets .container h4.address {
+	font-size: 16px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 17px;
+	line-height: 20px;
+}
+
+.wpb_content_element p {
+	padding-bottom: 14px!important;
+}
+}
+
+@media only screen and (min-width: 461px) and (max-width: 560px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 24px!important;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	    font-size: 16px!important;
+}
+
+i.icon-default-style[class^="icon-"]#clients-arrow {
+	margin-top: 24px!important;
+	margin-bottom: 12px!important;
+}
+
+i.icon-default-style[class^="icon-"]#work-arrow {
+	margin-top: 0;
+}
+
+.portfolio-items .col .work-item .work-info .vert-center h3 {
+	font-size: 45px!important;
+	line-height: 40px;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 60px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 44px!important;
+}
+
+h1.lets-talk {
+	margin-top: 0px;
+}
+
+#footer-outer .container .row {
+	padding-top: 55px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 32px;
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 20px;
+	margin-top: -24px;
+	margin-bottom: 0;
+}
+
+#footer-widgets .container h4.address {
+	font-size: 14px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 17px;
+	line-height: 20px;
+}
+
+.wpb_wrapper .wpb_content_element p {
+	padding-bottom: 14px!important;
+}
+}
+
+@media only screen and (min-width: 360px) and (max-width: 460px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 24px!important;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	    font-size: 16px!important;
+}
+
+i.icon-default-style[class^="icon-"]#clients-arrow {
+	margin-top: 24px!important;
+	margin-bottom: 12px!important;
+}
+
+i.icon-default-style[class^="icon-"]#work-arrow {
+	margin-top: 0;
+}
+
+.portfolio-items .col .work-item .work-info .vert-center h3 {
+	font-size: 45px!important;
+	line-height: 40px;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 50px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 40px!important;
+}
+
+h1.lets-talk {
+	margin-top: 0px;
+}
+
+#footer-outer .container .row {
+	padding-top: 55px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 40px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 25px;
+	margin-top: -24px;
+	margin-bottom: 0;
+}
+
+#footer-widgets .container h4.address {
+	font-size: 14px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 17px;
+	line-height: 20px;
+}
+
+.wpb_content_element p {
+	padding-bottom: 14px!important;
+}
+}
+
+@media only screen and (max-width: 360px) {
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	    margin-top: 30px!important;
+}
+
+.page-template-template-portfolio-php .row .container .col.section-title h1 {
+	margin-bottom: 24px!important;
+}
+
+.testimonial_slider .slides blockquote p {
+	padding-bottom: 30px;
+}
+
+.light .testimonial_slider .slides blockquote span {
+	    font-size: 16px!important;
+}
+
+i.icon-default-style[class^="icon-"]#clients-arrow {
+	margin-top: 24px!important;
+	margin-bottom: 12px!important;
+}
+
+i.icon-default-style[class^="icon-"]#work-arrow {
+	margin-top: 0;
+}
+
+.portfolio-items .col .work-item .work-info .vert-center h3 {
+	font-size: 45px!important;
+	line-height: 40px;
+}
+
+h1,
+.footer-lets-talk {
+	font-size: 48px!important;
+}
+
+/*.single-portfolio .container-wrap .main-content p {
+	font-size: 16px!important;
+	line-height: 28px!important;
+}*/
+
+.single-portfolio .row .col.section-title h1 {
+	font-size: 32px!important;
+}
+
+h1.lets-talk {
+	margin-top: 2px;
+}
+
+#footer-outer .container .row {
+	padding-top: 55px;
+}
+
+#footer-widgets .container h2.phone-number {
+	font-size: 36px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+#footer-widgets .container h3.email {
+	font-size: 22px;
+	margin-top: -12px;
+	margin-bottom: 0;
+}
+
+#footer-widgets .container h4.address {
+	font-size: 13px;
+}
+
+.single-portfolio .container-wrap .main-content p,
+.home .container p:not(.menu-text) {
+	font-size: 17px;
+	line-height: 18px;
+}
+
+.wpb_content_element p {
+	padding-bottom: 14px!important;
+}
+}
+
+@media all and (device-width: 320px) and (orientation:portrait) {
+	#footer-outer .container .row {
+		padding-top: 0!important;
+	}
+	
+	body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a {
+		line-height: 28px!important;
+	}
+	svg.large {
+		height: 35px!important;
+		margin-left: auto!important;
+		margin-right: auto!important;
+	}
+	svg.medium {
+		height: 28px!important;
+		margin-top: 16px!important;
+	}
+	svg.small {
+		height: 20px!important;
+		margin-top: 5px!important;
+	}
+	svg.tiny {
+		height: 15px!important;
+	}
+	svg.move-up {
+		margin-top: -15px!important;
+	}
+	li.copyright-li {
+		height:15px!important;
+	}
+	li.email-li {
+		height: 15px!important;
+	}
+	#slide-out-widget-area.fullscreen .inner .off-canvas-menu-container .menu li, #slide-out-widget-area.fullscreen .menuwrapper li {
+		height: 40px!important;
+	}
+	#slide-out-widget-area.fullscreen.mobile .inner-wrap {
+		margin-top: 10px!important;
+		height: 90%!important;
+		width: 500px!important;
+		margin-left: -85px!important;
+		margin-right: auto!important;
+	}
+	#footer-outer #footer-widgets {
+		height:280px!important;
+	}
+	#footer-outer .container .row {
+		margin-top: -100px!important;
+	}
+}
+
+@media all and (device-width: 375px) and (orientation:portrait) {
+	#slide-out-widget-area.fullscreen.mobile .inner-wrap {
+		width: 650px!important;
+		margin-left: -130px!important;
+		margin-top: -30px!important;
+	}
+	#footer-outer .container .row {
+		padding-top: 0!important;
+	}
+	svg.footer-svg {
+		width: 775px!important;
+		margin-left: -450px!important;
+	}
+	
+	.footer-lets-talk {
+		font-size: 50px!important;
+	}
+	#footer-outer #footer-widgets {
+		height:230px!important;
+	}
+	#footer-outer .container .row {
+		margin-top: -115px!important;
+	}
+}
+
+@media all and (device-width: 414px) and (orientation:portrait) {
+	#slide-out-widget-area.fullscreen.mobile .inner-wrap {
+		width: 850px!important;
+		margin-left: -220px!important;
+	}
+	svg.footer-svg {
+		width: 775px!important;
+		margin-left: -435px!important;
+	}
+	#footer-outer #footer-widgets {
+		height:230px!important;
+	}
+	#footer-outer .container .row {
+		margin-top: -165px!important;
+	}
+}
